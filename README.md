@@ -24,7 +24,3 @@ markdown_to_docx(report, 'saida.docx')
 - Python 3.7+
 - pacotes em `requirements.txt`
 - [Pandoc](https://pandoc.org) instalado no sistema
-
-## Licença
-
-MIT License
